@@ -4,7 +4,7 @@
  *Tp1
  *Comision 1
  *Video Explicacion:
- https:/
+ https://youtu.be/iKoojypTWeU
  
  */
 
