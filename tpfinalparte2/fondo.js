@@ -1,5 +1,0 @@
-class fondo{
-  constructor(){
-  
-  }
-}
